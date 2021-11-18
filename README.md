@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bully008
 - 👀 I’m interested in ...Coding and Hardware.
-- 🌱 I’m currently learning ...Web development
-- 💞️ I’m looking to collaborate on ...web dev project
+- 🌱 I’m currently learning ...Web development,Java, App Development.
+- 💞️ I’m looking to collaborate on ...web dev project,App Development Project and any Electronics or electrical project.
 - 📫 How to reach me ...spasricha.nangal@gmail.com
 
 <!---
